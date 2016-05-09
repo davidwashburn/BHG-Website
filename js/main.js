@@ -1,6 +1,7 @@
 /**
  * Created by david on 5/1/2016.
  */
+<<<<<<< HEAD
 
 (function (window, $) {
 
@@ -38,3 +39,5 @@
     });
 
 })(window, jQuery);
+=======
+>>>>>>> refs/remotes/origin/master
