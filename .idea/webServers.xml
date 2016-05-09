@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5f3da8f2-0961-4ccc-b753-9cb777010a48" name="Web Server" url="">
+        <fileTransfer host="brotherhoodgaming.net" port="22501" rootFolder="/opt/www/html" accessType="SFTP" password="dfccdfc3dfd9dfc2dfccdfc5dfc5dfdedf9bdf9fdf9edf89" username="david">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22501" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6c6b42e1-d907-4161-825e-b6e09c4b0fa5" name="Server Statistics" url="">
+        <fileTransfer host="brotherhoodgaming.net" port="22501" rootFolder="/opt/www/badmin" accessType="SFTP" password="dfccdfc3dfd9dfc2dfccdfc5dfc5dfdedf9bdf9fdf9edf89" username="david">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22501" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

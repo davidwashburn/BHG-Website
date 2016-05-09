@@ -1,0 +1,36 @@
+body {
+	font-family: monospace;
+	font-size: 19px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#header{
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	padding: 10px;
+	margin: 0px;
+	font-size: 24px;
+	
+}
+
+#info {
+	padding: 10px;
+	float: left;
+	margin: 0px;
+}
+#hex {
+	float: left;
+	margin-right: 10px;
+}
+
+#players {
+	float: left;
+	padding: 10px;
+	margin: 0px;
+}
+#rules {
+	float: left;
+	padding: 10px;
+	margin: 0px;
+}
